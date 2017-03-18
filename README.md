@@ -1,0 +1,3 @@
+# titanic
+
+Exploring the Titanc Dataset from Kaggel
