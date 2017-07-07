@@ -1,3 +1,3 @@
 # titanic
 
-Exploring the Titanc Dataset from Kaggel
+Exploring the Titanc Dataset from Kaggle
